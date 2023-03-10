@@ -1,3 +1,1 @@
-#!/bin/bash
-pwd
-
+not empty
